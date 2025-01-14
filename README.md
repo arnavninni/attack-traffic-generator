@@ -13,5 +13,5 @@ This repository contains Python scripts for generating various types of network 
 - `scripts/`: Python scripts for traffic generation.
 
 ### Requirements
-Python 3.x
-Required Libraries: scapy, etc.
+- Python 3.x
+- Required Libraries: scapy, etc.
